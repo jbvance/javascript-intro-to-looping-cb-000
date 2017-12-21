@@ -17,10 +17,10 @@ var whileLoop = num => {
 
 var doWhileLoop = array => {
   do {
-    array.pop()
+    array.pop();
   } while (array.length > 0 && maybeTrue());
 };
 
 function maybeTrue() {
-  return Math.random() >= 0.5
+  return Math.random() >= 0.5;
 }
