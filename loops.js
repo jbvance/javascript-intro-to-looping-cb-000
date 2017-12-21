@@ -7,9 +7,9 @@ var forLoop = array => {
   return array;
 };
 
-var whileLoop = (num) => {
+var whileLoop = num => {
   while (num >= 0) {
     console.log(num);
     num--;
   }
-}
+};
