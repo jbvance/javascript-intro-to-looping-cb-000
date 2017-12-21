@@ -14,3 +14,7 @@ var whileLoop = num => {
   }
   return 'done';
 };
+
+var doWhileLoop = array =>{
+  
+}
