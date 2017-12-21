@@ -6,3 +6,10 @@ var forLoop = array => {
   }
   return array;
 };
+
+var whileLoop = (num) => {
+  while (num >= 0) {
+    console.log(num);
+    num--;
+  }
+}
