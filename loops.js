@@ -10,7 +10,7 @@ var forLoop = array => {
 var whileLoop = num => {
   while (num >= 0) {
     console.log(num);
-    num--;
-    return 'done';
+    num--;  
   }
+    return 'done';
 };
