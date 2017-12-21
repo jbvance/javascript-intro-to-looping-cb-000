@@ -14,4 +14,3 @@ var whileLoop = num => {
   }
   return 'done';
 };
-
