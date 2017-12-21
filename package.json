@@ -13,14 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/learn-co-curriculum/javascript-intro-to-looping.git"
   },
-  "keywords": [
-    "javascript",
-    "for",
-    "while",
-    "loop",
-    "learn",
-    "flatiron"
-  ],
+  "keywords": ["javascript", "for", "while", "loop", "learn", "flatiron"],
   "author": "",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
